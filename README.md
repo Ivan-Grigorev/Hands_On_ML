@@ -1,6 +1,6 @@
-# Hands-On Machine Learning with Scikit-Learn and TensorFlow
+# Hands_On_ML
 
-This repository contains Jupyter notebooks and code examples based on the book "Hands-On Machine Learning with Scikit-Learn and TensorFlow" by Aurélien Géron. All notebooks and code in this repository are used for educational purposes.
+This repository contains Jupyter notebooks and code examples based on the book **"Hands-On Machine Learning with Scikit-Learn and TensorFlow"** by Aurélien Géron. All notebooks and code in this repository are used for educational purposes.
 
 ## About the Book
 
